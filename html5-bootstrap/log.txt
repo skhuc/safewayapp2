@@ -1,0 +1,297 @@
+Searching for integrator.xml ...
+
+init:
+
+dita2html5-bootstrap.init:
+
+html5.init:
+
+init-properties:
+[init-project] Initializing project
+
+check-arg:
+   [delete] Deleting directory /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579
+    [mkdir] Created dir: /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579
+
+log-arg:
+     [echo] *****************************************************************
+     [echo] * basedir = /home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1
+     [echo] * dita.dir = /home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1
+     [echo] * transtype = html5-bootstrap
+     [echo] * tempdir = /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579
+     [echo] * outputdir = /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap
+     [echo] * clean.temp = true
+     [echo] * DITA-OT version = 3.6.1
+     [echo] * XML parser = Xerces
+     [echo] * XSLT processor = Saxon
+     [echo] * collator = ICU
+     [echo] *****************************************************************
+     [echo] #Ant properties
+     [echo] #Wed Jun 05 21:14:45 GMT 2024
+     [echo] dita.plugin.org.dita.base.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.base
+     [echo] dita.temp.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579
+     [echo] args.xsl=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
+     [echo] args.html5.toc=toc
+     [echo] args.grammar.cache=yes
+     [echo] dita.plugin.org.oasis-open.xdita.v0_2_2.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.xdita.v0_2_2
+     [echo] dita.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1
+     [echo] dita.plugin.org.dita.pdf2.axf.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.axf
+     [echo] args.hdf=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bootstrap.hdf.xml
+     [echo] args.copycss=yes
+     [echo] args.csspath=css
+     [echo] dita.plugin.org.oasis-open.dita.v1_3.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_3
+     [echo] dita.plugin.org.lwdita.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.lwdita
+     [echo] dita.plugin.org.oasis-open.dita.v2_0.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v2_0
+     [echo] args.hdr=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bs-navbar-default.hdr.xml
+     [echo] dita.plugin.org.dita.htmlhelp.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.htmlhelp
+     [echo] dita.output.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap
+     [echo] dita.plugin.org.dita.eclipsehelp.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.eclipsehelp
+     [echo] dita.plugin.org.dita.normalize.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.normalize
+     [echo] dita.plugin.org.dita.xhtml.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.xhtml
+     [echo] dita.plugin.org.dita.pdf2.xep.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.xep
+     [echo] dita.plugin.org.dita.specialization.dita11.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.specialization.dita11
+     [echo] dita.plugin.org.oasis-open.dita.v1_2.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_2
+     [echo] dita.plugin.org.dita.pdf2.fop.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.fop
+     [echo] args.input=/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Using_the_Safeway_App.ditamap
+     [echo] args.xml.systemid.set=yes
+     [echo] dita.plugin.org.dita.pdf2.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2
+     [echo] dita.plugin.org.dita.html5.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5
+     [echo] dita.html5.reloadstylesheet=false
+     [echo] dita.plugin.org.oasis-open.dita.techcomm.v2_0.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.techcomm.v2_0
+     [echo] dita.plugin.org.dita.index.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.index
+     [echo] dita.plugin.net.infotexture.dita-bootstrap.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap
+     [echo] dita.plugin.fox.jason.extend.css.dir=/home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/fox.jason.extend.css
+     [echo] dita.extname=dita
+     [echo] *****************************************************************
+
+build-init:
+
+preprocess.init:
+     [echo] *****************************************************************
+     [echo] * input = /home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Using_the_Safeway_App.ditamap
+     [echo] * resources = ${args.resources}
+     [echo] *****************************************************************
+
+ditaval-merge:
+
+gen-list:
+ [gen-list] Using Xerces grammar pool for DTD and schema caching.
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Using_the_Safeway_App.ditamap
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/App_Features.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Clipping_Coupons_while_In-Store.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Digital_Coupons.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/How_to_Create_A_Safeway_Account.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/List_of_other_App_Features.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Looking_for_Deals_using_the_Safeway_App.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Member_Page.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Navigating_the_Deals_Page.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Understanding_Safeway_Offers.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Weekly_Ad.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/deals_page.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/home_page.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/my_list.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/shop_page.dita
+ [gen-list] Serializing job specification
+
+debug-filter:
+   [filter] Using Xerces grammar pool for DTD and schema caching.
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/my_list.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/my_list.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/deals_page.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/deals_page.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/How_to_Create_A_Safeway_Account.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/How_to_Create_A_Safeway_Account.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/App_Features.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/App_Features.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Digital_Coupons.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Digital_Coupons.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/home_page.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/home_page.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Weekly_Ad.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Weekly_Ad.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Navigating_the_Deals_Page.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Navigating_the_Deals_Page.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/shop_page.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/shop_page.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Looking_for_Deals_using_the_Safeway_App.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Looking_for_Deals_using_the_Safeway_App.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Member_Page.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Member_Page.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Clipping_Coupons_while_In-Store.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Clipping_Coupons_while_In-Store.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Using_the_Safeway_App.ditamap to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Using_the_Safeway_App.ditamap
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/Understanding_Safeway_Offers.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Understanding_Safeway_Offers.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/List_of_other_App_Features.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/List_of_other_App_Features.dita
+
+mapref-check:
+
+mapref:
+   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Using_the_Safeway_App.ditamap
+
+branch-filter:
+[branch-filter] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Using_the_Safeway_App.ditamap
+
+keyref:
+   [mapref] Transforming into /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579
+   [mapref] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mapref.xsl
+   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Using_the_Safeway_App.ditamap
+
+copy-to:
+
+conrefpush:
+
+conref:
+
+profile-check:
+
+profile:
+
+topic-fragment:
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/my_list.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/deals_page.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/How_to_Create_A_Safeway_Account.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/App_Features.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Digital_Coupons.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/home_page.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Weekly_Ad.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Navigating_the_Deals_Page.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/shop_page.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Looking_for_Deals_using_the_Safeway_App.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Member_Page.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Clipping_Coupons_while_In-Store.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Understanding_Safeway_Offers.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/List_of_other_App_Features.dita
+
+chunk-check:
+
+chunk:
+    [chunk] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Using_the_Safeway_App.ditamap
+
+move-meta-entries:
+[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Using_the_Safeway_App.ditamap
+[move-meta] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mappull.xsl
+[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Using_the_Safeway_App.ditamap
+
+maplink-check:
+
+maplink:
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/my_list.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Member_Page.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Looking_for_Deals_using_the_Safeway_App.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/deals_page.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/App_Features.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/How_to_Create_A_Safeway_Account.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Understanding_Safeway_Offers.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Clipping_Coupons_while_In-Store.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/shop_page.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Weekly_Ad.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Navigating_the_Deals_Page.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/home_page.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Digital_Coupons.dita
+
+topicpull-check:
+
+topicpull:
+[topicpull] Transforming into /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579
+[topicpull] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/topicpull.xsl
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/my_list.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/deals_page.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/How_to_Create_A_Safeway_Account.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/App_Features.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Digital_Coupons.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/home_page.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Weekly_Ad.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Navigating_the_Deals_Page.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/shop_page.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Looking_for_Deals_using_the_Safeway_App.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Member_Page.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Clipping_Coupons_while_In-Store.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Understanding_Safeway_Offers.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/List_of_other_App_Features.dita
+
+clean-map-check:
+
+clean-map:
+[clean-map] Transforming into /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579
+[clean-map] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/clean-map.xsl
+[clean-map] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Using_the_Safeway_App.ditamap
+
+clean-preprocess:
+
+copy-image:
+     [copy] Copying 7 files to /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap
+
+copy-html:
+
+copy-flag-check:
+
+copy-flag:
+
+copy-files:
+
+extend.css.init:
+
+dita-bootstrap.css.copy:
+
+extend.css.copy:
+     [copy] Copying 1 file to /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/css
+
+extend.css:
+
+preprocess:
+
+html5.topic.init:
+
+html5.image-metadata:
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/my_list.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/deals_page.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/images/IMG_2159.PNG
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/How_to_Create_A_Safeway_Account.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/App_Features.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Digital_Coupons.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/images/IMG_2158.jpg
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/home_page.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/images/IMG_2155.PNG
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Weekly_Ad.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/images/IMG_2157.PNG
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Navigating_the_Deals_Page.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/images/IMG_2160.PNG
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/shop_page.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Looking_for_Deals_using_the_Safeway_App.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/images/IMG_2156.PNG
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Member_Page.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Clipping_Coupons_while_In-Store.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/images/IMG_1869.jpg
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Understanding_Safeway_Offers.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/List_of_other_App_Features.dita
+
+html5.topics.common:
+
+html5.topics.common.inner:
+     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap
+     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/my_list.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/my_list.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/deals_page.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/deals_page.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/How_to_Create_A_Safeway_Account.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/How_to_Create_A_Safeway_Account.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/App_Features.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/App_Features.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Digital_Coupons.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/Digital_Coupons.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/home_page.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/home_page.html
+     [xslt] file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/source/0/home_page.dita:3:2389: [DOTX041W][WARN]: Found more than one title element in a section element. Using the first one for the section's title. 
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Weekly_Ad.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/Weekly_Ad.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Navigating_the_Deals_Page.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/Navigating_the_Deals_Page.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/shop_page.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/shop_page.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Looking_for_Deals_using_the_Safeway_App.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/Looking_for_Deals_using_the_Safeway_App.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Member_Page.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/Member_Page.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Clipping_Coupons_while_In-Store.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/Clipping_Coupons_while_In-Store.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Understanding_Safeway_Offers.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/Understanding_Safeway_Offers.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/List_of_other_App_Features.dita to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/List_of_other_App_Features.html
+
+html5.topic:
+
+html5.map.init:
+
+html5.map.toc:
+     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap
+     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13798671976639395848/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5/xsl/map2html5-cover.xsl
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-temp15214386354183408579/Using_the_Safeway_App.ditamap to file:/home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/toc.html
+
+html5.map:
+
+html5.css:
+     [copy] Copying 2 files to /home/dita-ot/dita-ot/dita-ot13798671976639395848/ot-output/html5-bootstrap/css
+
+html5.copy-css-user:
+
+dita2html5:
+
+dita2html5-bootstrap:
+
+clean-temp:
